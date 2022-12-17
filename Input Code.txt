@@ -1,8 +1,0 @@
-Estragon a = 1 ;
-Estragon b = " word " ;
-Estragon c = 3 ;
-Estragon d = ' a ' ;
-d = 45 ;
-TalkLucky ~ d ;
-Godot's_arrival | a < c | ( TalkLucky ~ b ; ) ;
-UntilNextDay | a <= c | ( TalkLucky ~ c ; ++a ; ) ;
