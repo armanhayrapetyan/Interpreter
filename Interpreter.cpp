@@ -23,7 +23,7 @@ int assign(const std::vector<std::string>& token, int size, int i);
 
 int main() {
 	std::vector <std::string> token;
-	std::ifstream file("c:\\users\\araks\\desktop\\Input Code.txt");
+	std::ifstream file("home\\arman\\Interpreter\\Input Code.txt");
 
 	if (!file.is_open())
 	{
